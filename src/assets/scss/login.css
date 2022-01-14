@@ -1,0 +1,43 @@
+.box {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+form {
+  margin: 50px;
+  padding: 20px;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: #131313;
+  border-radius: 20px;
+}
+
+form label {
+  color: whitesmoke;
+  font-size: 35px;
+  text-align: left;
+}
+
+form input {
+  cursor: text;
+}
+
+form input {
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.button {
+  padding: 20px;
+  background-color: greenyellow;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  width: 50%;
+  align-self: center;
+  cursor: pointer;
+}

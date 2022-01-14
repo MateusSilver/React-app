@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Fira sans", sans-serif;
+}
+
+header {
+  padding: 50px;
+}
+
+header h1 {
+  color: #aaa;
+  font-size: 36px;
+  font-weight: 400;
+  text-align: center;
+}
+
+strong {
+  color: #131313;
+}
