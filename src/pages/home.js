@@ -1,7 +1,8 @@
 import React from "react";
+import mensagem from "../components/mensagem";
 
 const Home = () => {
-  return <div>home</div>;
+  return <Mensagem mensagem="Home"></Mensagem>;
 };
 
 export default Home;

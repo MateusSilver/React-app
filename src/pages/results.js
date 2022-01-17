@@ -1,7 +1,8 @@
 import React from "react";
+import Mensagem from "../components/mensagem";
 
 const Results = () => {
-  return <div>Result</div>;
+  return <Mensagem mensagem="Resultados"></Mensagem>;
 };
 
 export default Results;
